@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... coding, running, traveling, music and food!
 - 🌱 I’m currently learning ... Javascript
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...
+- 📫 How to reach me ... Instagram @lilyzetakovic
 
 <!---
 marathonsandsushi/marathonsandsushi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
